@@ -11,3 +11,4 @@ for n in range(0,5):
         z = a[n] * 2 ** (h-1) + z
         h=h-1
 print(z)
+print("proba")
